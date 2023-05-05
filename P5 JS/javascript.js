@@ -35,3 +35,7 @@ if(a>=b && a>=c){
         result.textContent = `El orden es ${c}, ${b}, ${a}`
     }
 }
+
+function question() {
+    alert ("a huevo que sí mijares");
+}
